@@ -1,0 +1,113 @@
+C:\Users\Vitor\Desktop\BibliotecnologyV3.0\BiblioTechnology\BiblioTechnology\bin\Debug\BiblioTechnology.exe.config
+C:\Users\Vitor\Desktop\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\bin\Debug\BiblioTechnology.exe.config
+C:\Users\Vitor\Desktop\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Desktop\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.Properties.Resources.resources
+C:\Users\Vitor\Desktop\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.csproj.GenerateResource.Cache
+C:\Users\Vitor\Desktop\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\bin\Debug\DB\DB_BIBLIOTECHNOLOGY.mdf
+C:\Users\Vitor\Desktop\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\bin\Debug\DB\DB_BIBLIOTECHNOLOGY_log.ldf
+C:\Users\Vitor\Desktop\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\bin\Debug\BiblioTechnology.exe
+C:\Users\Vitor\Desktop\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\bin\Debug\BiblioTechnology.pdb
+C:\Users\Vitor\Desktop\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.frmSplash.resources
+C:\Users\Vitor\Desktop\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.exe
+C:\Users\Vitor\Desktop\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.pdb
+C:\Users\Vitor\Desktop\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.frmPrincipal.resources
+C:\Users\Vitor\Desktop\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmLogin.resources
+C:\Users\Vitor\Desktop\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmAluno.resources
+C:\Users\Vitor\Desktop\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmLivros.resources
+C:\Users\Vitor\Desktop\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmDevolucao.resources
+C:\Users\Vitor\Desktop\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmLocacao.resources
+C:\Users\Vitor\Google Drive\Projetos C#\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\bin\Debug\BiblioTechnology.exe.config
+C:\Users\Vitor\Google Drive\Projetos C#\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.exe
+C:\Users\Vitor\Google Drive\Projetos C#\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.pdb
+C:\Users\Vitor\Google Drive\Projetos C#\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\bin\Debug\DB\DB_BIBLIOTECHNOLOGY.mdf
+C:\Users\Vitor\Google Drive\Projetos C#\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\bin\Debug\DB\DB_BIBLIOTECHNOLOGY_log.ldf
+C:\Users\Vitor\Google Drive\Projetos C#\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\bin\Debug\BiblioTechnology.exe
+C:\Users\Vitor\Google Drive\Projetos C#\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\bin\Debug\BiblioTechnology.pdb
+C:\Users\Vitor\Google Drive\Projetos C#\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Google Drive\Projetos C#\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmAluno.resources
+C:\Users\Vitor\Google Drive\Projetos C#\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmDevolucao.resources
+C:\Users\Vitor\Google Drive\Projetos C#\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmLivros.resources
+C:\Users\Vitor\Google Drive\Projetos C#\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmLocacao.resources
+C:\Users\Vitor\Google Drive\Projetos C#\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmLogin.resources
+C:\Users\Vitor\Google Drive\Projetos C#\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.frmSplash.resources
+C:\Users\Vitor\Google Drive\Projetos C#\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.Properties.Resources.resources
+C:\Users\Vitor\Google Drive\Projetos C#\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.frmPrincipal.resources
+C:\Users\Vitor\Google Drive\Projetos C#\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.csproj.GenerateResource.Cache
+C:\Users\vitor\Google Drive\Projetos C#\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmHome.resources
+C:\Users\vitor\Google Drive\Projetos C#\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmFuncionario.resources
+C:\Users\vitor\Documents\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\bin\Debug\BiblioTechnology.exe.config
+C:\Users\vitor\Documents\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.exe
+C:\Users\vitor\Documents\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.pdb
+C:\Users\vitor\Documents\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.csprojResolveAssemblyReference.cache
+C:\Users\vitor\Documents\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmAluno.resources
+C:\Users\vitor\Documents\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmDevolucao.resources
+C:\Users\vitor\Documents\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmHome.resources
+C:\Users\vitor\Documents\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmLivros.resources
+C:\Users\vitor\Documents\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmLocacao.resources
+C:\Users\vitor\Documents\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmLogin.resources
+C:\Users\vitor\Documents\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.frmSplash.resources
+C:\Users\vitor\Documents\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.Properties.Resources.resources
+C:\Users\vitor\Documents\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.frmPrincipal.resources
+C:\Users\vitor\Documents\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.csproj.GenerateResource.Cache
+C:\Users\vitor\Documents\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\bin\Debug\DB\DB_BIBLIOTECHNOLOGY.mdf
+C:\Users\vitor\Documents\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\bin\Debug\DB\DB_BIBLIOTECHNOLOGY_log.ldf
+C:\Users\vitor\Documents\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\bin\Debug\BiblioTechnology.exe
+C:\Users\vitor\Documents\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\bin\Debug\BiblioTechnology.pdb
+C:\Users\vitor\Documents\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmFuncionario.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\bin\Debug\BiblioTechnology.exe.config
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.exe
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.pdb
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmDevolucao.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmHome.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmLivros.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmLocacao.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmLogin.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.frmSplash.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.Properties.Resources.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.frmPrincipal.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.csproj.GenerateResource.Cache
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\bin\Debug\DB\DB_BIBLIOTECHNOLOGY.mdf
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\bin\Debug\DB\DB_BIBLIOTECHNOLOGY_log.ldf
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\bin\Debug\BiblioTechnology.exe
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\bin\Debug\BiblioTechnology.pdb
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmEditora.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmBibliotecario.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmConsuEditora.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmConsuBibliotecario.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmConsuLivro.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology - Copia\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\bin\Debug\BiblioTechnology.exe.config
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology - Copia\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.exe
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology - Copia\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.pdb
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology - Copia\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.csprojResolveAssemblyReference.cache
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology - Copia\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\bin\Debug\DB\DB_BIBLIOTECHNOLOGY.mdf
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology - Copia\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\bin\Debug\DB\DB_BIBLIOTECHNOLOGY_log.ldf
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology - Copia\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\bin\Debug\BiblioTechnology.exe
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology - Copia\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\bin\Debug\BiblioTechnology.pdb
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology - Copia\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmConsuEditora.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology - Copia\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmBibliotecario.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology - Copia\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmConsuBibliotecario.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology - Copia\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmConsuLivro.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology - Copia\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmDevolucao.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology - Copia\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmEditora.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology - Copia\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmHome.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology - Copia\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmLivros.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology - Copia\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmLocacao.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology - Copia\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmLogin.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology - Copia\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.frmSplash.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology - Copia\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.Properties.Resources.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology - Copia\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.frmPrincipal.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology - Copia\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.csproj.GenerateResource.Cache
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology - Copia\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmConsuLocatario.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology - Copia\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmLocatario.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmConsuLocatario.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmLocatario.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology Backup04 - Local DB\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\bin\Debug\BiblioTechnology.exe.config
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology Backup04 - Local DB\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.exe
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology Backup04 - Local DB\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.pdb
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmGenero.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.csprojResolveAssemblyReference.cache
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmTipoMaterial.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmConfig.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmMovimentacao.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmSobre.resources
+C:\Users\vitor\Google Drive\Projetos C#\biblio tecnology em desenvolvimento\BiblioTechnology\BiblioTechnologyV3.0\BiblioTechnology\BiblioTechnology\obj\Debug\BiblioTechnology.View.frmRecuperarSenha.resources

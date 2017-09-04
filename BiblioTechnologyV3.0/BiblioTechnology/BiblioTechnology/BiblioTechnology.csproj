@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{47AD30BA-1713-43F0-99CC-44FCD6794742}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BiblioTechnology</RootNamespace>
+    <AssemblyName>BiblioTechnology</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icone do programa.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DB\Bibliotecario.cs" />
+    <Compile Include="DB\Conexao.cs" />
+    <Compile Include="DB\Config.cs" />
+    <Compile Include="DB\Editora.cs" />
+    <Compile Include="DB\Genero.cs" />
+    <Compile Include="DB\Livro.cs" />
+    <Compile Include="DB\Locacao.cs" />
+    <Compile Include="DB\Locatario.cs" />
+    <Compile Include="DB\Movimentacao.cs" />
+    <Compile Include="DB\RecuperarSenha.cs" />
+    <Compile Include="DB\TipoMaterial.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Utilities\Backup.cs" />
+    <Compile Include="Utilities\ConverterData.cs" />
+    <Compile Include="Utilities\Email.cs" />
+    <Compile Include="Utilities\Limpar.cs" />
+    <Compile Include="Utilities\OperacoesForm.cs" />
+    <Compile Include="View\frmConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmConfig.Designer.cs">
+      <DependentUpon>frmConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmConsuEditora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmConsuEditora.Designer.cs">
+      <DependentUpon>frmConsuEditora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmBibliotecario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmBibliotecario.Designer.cs">
+      <DependentUpon>frmBibliotecario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmConsuBibliotecario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmConsuBibliotecario.Designer.cs">
+      <DependentUpon>frmConsuBibliotecario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmConsuLivro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmConsuLivro.Designer.cs">
+      <DependentUpon>frmConsuLivro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmConsuLocatario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmConsuLocatario.Designer.cs">
+      <DependentUpon>frmConsuLocatario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmDevolucao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmDevolucao.Designer.cs">
+      <DependentUpon>frmDevolucao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmEditora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmEditora.Designer.cs">
+      <DependentUpon>frmEditora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmGenero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmGenero.Designer.cs">
+      <DependentUpon>frmGenero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmHome.Designer.cs">
+      <DependentUpon>frmHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmLivros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmLivros.Designer.cs">
+      <DependentUpon>frmLivros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmLocacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmLocacao.Designer.cs">
+      <DependentUpon>frmLocacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmLocatario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmLocatario.Designer.cs">
+      <DependentUpon>frmLocatario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmMovimentacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmMovimentacao.Designer.cs">
+      <DependentUpon>frmMovimentacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmPrincipal.designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmRecuperarSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmRecuperarSenha.Designer.cs">
+      <DependentUpon>frmRecuperarSenha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmSobre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmSobre.Designer.cs">
+      <DependentUpon>frmSobre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmSplash.Designer.cs">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View\frmTipoMaterial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmTipoMaterial.Designer.cs">
+      <DependentUpon>frmTipoMaterial.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="View\frmConfig.resx">
+      <DependentUpon>frmConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmConsuEditora.resx">
+      <DependentUpon>frmConsuEditora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmBibliotecario.resx">
+      <DependentUpon>frmBibliotecario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmConsuBibliotecario.resx">
+      <DependentUpon>frmConsuBibliotecario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmConsuLivro.resx">
+      <DependentUpon>frmConsuLivro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmConsuLocatario.resx">
+      <DependentUpon>frmConsuLocatario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmDevolucao.resx">
+      <DependentUpon>frmDevolucao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmEditora.resx">
+      <DependentUpon>frmEditora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmGenero.resx">
+      <DependentUpon>frmGenero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmHome.resx">
+      <DependentUpon>frmHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmLivros.resx">
+      <DependentUpon>frmLivros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmLocacao.resx">
+      <DependentUpon>frmLocacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmLocatario.resx">
+      <DependentUpon>frmLocatario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmMovimentacao.resx">
+      <DependentUpon>frmMovimentacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmRecuperarSenha.resx">
+      <DependentUpon>frmRecuperarSenha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmSobre.resx">
+      <DependentUpon>frmSobre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmSplash.resx">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmTipoMaterial.resx">
+      <DependentUpon>frmTipoMaterial.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DB\DB_BIBLIOTECHNOLOGY.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="DB\DB_BIBLIOTECHNOLOGY_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>DB_BIBLIOTECHNOLOGY.mdf</DependentUpon>
+    </Content>
+    <Content Include="icone do programa.ico" />
+    <None Include="Resources\Homem.jpg" />
+    <None Include="Resources\Mulher.jpg" />
+    <None Include="Resources\bibliotecaria.jpg" />
+    <None Include="Resources\bibliotecario.jpg" />
+    <None Include="Resources\Editora.jpg" />
+    <None Include="Resources\home.png" />
+    <None Include="Resources\Login.png" />
+    <None Include="Resources\login.jpg" />
+    <None Include="Resources\BiblioTechnology imagem original.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
